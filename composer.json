@@ -1,5 +1,5 @@
 {
-	"name": "chronon/Attempt",
+	"name": "chronon/attempt",
 	"type": "cakephp-plugin",
 	"description": "A CakePHP plugin that helps to protect sensitive actions from brute force attacks",
 	"homepage": "http://github.com/chronon/Attempt",
